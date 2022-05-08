@@ -8,6 +8,8 @@
 ![Minecraft 1.14.4](https://img.shields.io/badge/Minecraft-1.14.4-green.svg?style=flat)
 ![Minecraft 1.15.2](https://img.shields.io/badge/Minecraft-1.15.2-green.svg?style=flat)
 
+# EmoteCraft
+
 ## Table of Contents
 
 * [About](#about)
@@ -31,7 +33,9 @@ Discord Emojis in Minecraft
 * Emojicord
   - (c) 2019-2020 TeamFruit
   - [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://opensource.org/licenses/mit-license.php)
-
+* EmoteCraft
+  - (c) 2022-2022 Matthew-MBG
+  - [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://opensource.org/licenses/mit-license.php)
 ## Downloads
 
 Downloads can be found on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojicord).  
@@ -64,3 +68,4 @@ Thanks to
 * Kamesuta for Emojicord
 * sjcl for Emojicord Web
 * all [contributors](https://github.com/Team-Fruit/Emojicord/graphs/contributors)
+* Emojicord developers
